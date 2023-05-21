@@ -7,12 +7,10 @@
         "name":"Centurion Creative Connect",
         "url":"https://github.com/centurion-creative-connect"
     },
-    "description":"Example listing of VRChat packages",
     "infoLink":{
         "url":"http://github.com/Centurion-Creative-Connect/vpm-repos",
         "text":"View on GitHub"
     },
-    "bannerUrl":"banner.png",
     "githubRepos":[
         "Centurion-Creative-Connect/System"
     ]
