@@ -1,10 +1,10 @@
 {
-    "name":"Centurion Creative Connect Listing",
+    "name":"Centurion Creative Connect",
     "id":"org.centurioncc.vpm",
     "url":"https://centurion-creative-connect.github.io/vpm-repos/index.json",
     "author":{
         "email":"Centurion.Creative.Connect@gmail.com",
-        "name":"Centurion Creative Connect",
+        "name":"Centurion-Creative-Connect",
         "url":"https://github.com/centurion-creative-connect"
     },
     "infoLink":{
