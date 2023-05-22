@@ -12,6 +12,7 @@
         "text":"View on GitHub"
     },
     "githubRepos":[
-        "Centurion-Creative-Connect/System"
+        "Centurion-Creative-Connect/System",
+        "Centurion-Creative-Connect/System.Commands"
     ]
 }
