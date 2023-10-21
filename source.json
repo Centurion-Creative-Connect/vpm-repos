@@ -13,6 +13,7 @@
     },
     "githubRepos":[
         "Centurion-Creative-Connect/System",
-        "Centurion-Creative-Connect/System.Commands"
+        "Centurion-Creative-Connect/System.Commands",
+        "Centurion-Creative-Connect/System.VoiceCommsIntegration"
     ]
 }
